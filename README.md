@@ -24,5 +24,6 @@ Hunar-Intern
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+- Google Colab
 
 Thank you for visiting this repository.
