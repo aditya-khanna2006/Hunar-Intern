@@ -2,7 +2,7 @@
 
 Welcome to my **HUNAR INTERN Data Science Internship** repository.
 
-This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, and **Data Analysis**, covering topics such as data cleaning, preprocessing, exploratory data analysis, visualization, and machine learning.
+This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, and **Machine Learning**, covering topics such as data cleaning, preprocessing, data visualization, and predictive modeling.
 
 The repository is organized task-wise, making it easy to navigate through each internship assignment and its corresponding solution.
 
@@ -10,7 +10,7 @@ The repository is organized task-wise, making it easy to navigate through each i
 
 ## 📂 Repository Structure
 
-```
+```text
 Hunar-Intern
 │
 ├── README.md
@@ -21,9 +21,11 @@ Hunar-Intern
 │   ├── food_coded_original.csv
 │   └── food_coded_cleaned.csv
 │
-├── Task-2
-├── Task-3
-├── Task-4
+├── Task-2-House-Price-Prediction
+│   ├── README.md
+│   ├── House_Price_Prediction.ipynb
+│   └── house price data.csv
+│
 └── ...
 ```
 
@@ -34,9 +36,7 @@ Hunar-Intern
 | Task | Project | Status |
 |------|---------|:------:|
 | Task 1 | Data Cleaning | ✅ Completed |
-| Task 2 | Coming Soon | ⏳ |
-| Task 3 | Coming Soon | ⏳ |
-| Task 4 | Coming Soon | ⏳ |
+| Task 2 | House Price Prediction using Linear Regression | ✅ Completed |
 
 ---
 
@@ -45,7 +45,10 @@ Hunar-Intern
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Scikit-learn
 - Jupyter Notebook
+- Google Colab
 - Git & GitHub
 
 ---
@@ -57,9 +60,19 @@ Hunar-Intern
 - Missing Value Handling
 - Duplicate Removal
 - Data Transformation
-- Exploratory Data Analysis (Upcoming)
-- Data Visualization (Upcoming)
-- Machine Learning (Upcoming)
+- Data Visualization
+- Machine Learning
+- Linear Regression
+- Model Evaluation
+
+---
+
+## 📈 Repository Progress
+
+- ✅ Task 1 – Data Cleaning
+- ✅ Task 2 – House Price Prediction using Linear Regression
+
+This repository will continue to be updated as more internship tasks are completed.
 
 ---
 
@@ -69,15 +82,15 @@ Hunar-Intern
 
 **Domain:** Data Science Internship
 
-This repository is continuously updated as new internship tasks are assigned and completed.
-
 ---
 
 ## 🤝 Connect With Me
 
-**GitHub:** https://github.com/aditya-khanna2006
+**GitHub:**  
+https://github.com/aditya-khanna2006
 
-**LinkedIn:** https://www.linkedin.com/in/aditya-khanna2006
+**LinkedIn:**  
+https://www.linkedin.com/in/aditya-khanna2006
 
 ---
 
