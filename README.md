@@ -2,7 +2,7 @@
 
 Welcome to my **HUNAR INTERN Data Science Internship** repository.
 
-This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, and **Machine Learning**, covering topics such as data cleaning, preprocessing, data visualization, and predictive modeling.
+This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, and **Machine Learning**, covering topics such as data cleaning, preprocessing, data visualization, regression, and classification models.
 
 The repository is organized task-wise, making it easy to navigate through each internship assignment and its corresponding solution.
 
@@ -23,8 +23,13 @@ Hunar-Intern
 │
 ├── Task-2-House-Price-Prediction
 │   ├── README.md
-│   ├── House_Price_Prediction.ipynb
+│   ├── Task2_House_Price_Prediction_Using_Linear_Regression.ipynb
 │   └── house price data.csv
+│
+├── Task-3-Breast-Cancer-Detection
+│   ├── README.md
+│   ├── Task_3_Breast_Cancer_Detection_KNN.ipynb
+│   └── breast cancer.csv
 │
 └── ...
 ```
@@ -37,6 +42,7 @@ Hunar-Intern
 |------|---------|:------:|
 | Task 1 | Data Cleaning | ✅ Completed |
 | Task 2 | House Price Prediction using Linear Regression | ✅ Completed |
+| Task 3 | Breast Cancer Detection using K-Nearest Neighbors (KNN) | ✅ Completed |
 
 ---
 
@@ -46,6 +52,7 @@ Hunar-Intern
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 - Jupyter Notebook
 - Google Colab
@@ -59,10 +66,15 @@ Hunar-Intern
 - Data Preprocessing
 - Missing Value Handling
 - Duplicate Removal
+- Feature Engineering
+- Feature Scaling
 - Data Transformation
 - Data Visualization
 - Machine Learning
 - Linear Regression
+- K-Nearest Neighbors (KNN)
+- Regression Analysis
+- Classification
 - Model Evaluation
 
 ---
@@ -71,6 +83,7 @@ Hunar-Intern
 
 - ✅ Task 1 – Data Cleaning
 - ✅ Task 2 – House Price Prediction using Linear Regression
+- ✅ Task 3 – Breast Cancer Detection using K-Nearest Neighbors (KNN)
 
 This repository will continue to be updated as more internship tasks are completed.
 
