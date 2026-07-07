@@ -2,7 +2,7 @@
 
 Welcome to my **HUNAR INTERN Data Science Internship** repository.
 
-This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, and **Machine Learning**, covering topics such as data cleaning, preprocessing, data visualization, regression, and classification models.
+This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, **Machine Learning**, and **Deep Learning**, covering topics such as data cleaning, preprocessing, exploratory data analysis, regression, classification, and image classification.
 
 The repository is organized task-wise, making it easy to navigate through each internship assignment and its corresponding solution.
 
@@ -31,6 +31,10 @@ Hunar-Intern
 │   ├── Task_3_Breast_Cancer_Detection_KNN.ipynb
 │   └── breast cancer.csv
 │
+├── Task-4-Cat-Dog-Image-Classification
+│   ├── README.md
+│   └── Cat_Dog_Image_Classification.ipynb
+│
 └── ...
 ```
 
@@ -43,6 +47,7 @@ Hunar-Intern
 | Task 1 | Data Cleaning | ✅ Completed |
 | Task 2 | House Price Prediction using Linear Regression | ✅ Completed |
 | Task 3 | Breast Cancer Detection using K-Nearest Neighbors (KNN) | ✅ Completed |
+| Task 4 | Cat vs Dog Image Classification using Convolutional Neural Network (CNN) | ✅ Completed |
 
 ---
 
@@ -54,6 +59,8 @@ Hunar-Intern
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- TensorFlow
+- Keras
 - Jupyter Notebook
 - Google Colab
 - Git & GitHub
@@ -69,13 +76,19 @@ Hunar-Intern
 - Feature Engineering
 - Feature Scaling
 - Data Transformation
+- Exploratory Data Analysis (EDA)
 - Data Visualization
 - Machine Learning
-- Linear Regression
-- K-Nearest Neighbors (KNN)
 - Regression Analysis
+- Linear Regression
 - Classification
+- K-Nearest Neighbors (KNN)
+- Model Training
 - Model Evaluation
+- Deep Learning
+- Convolutional Neural Networks (CNN)
+- Computer Vision
+- Image Classification
 
 ---
 
@@ -84,6 +97,7 @@ Hunar-Intern
 - ✅ Task 1 – Data Cleaning
 - ✅ Task 2 – House Price Prediction using Linear Regression
 - ✅ Task 3 – Breast Cancer Detection using K-Nearest Neighbors (KNN)
+- ✅ Task 4 – Cat vs Dog Image Classification using CNN
 
 This repository will continue to be updated as more internship tasks are completed.
 
