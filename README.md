@@ -2,9 +2,9 @@
 
 Welcome to my **HUNAR INTERN Data Science Internship** repository.
 
-This repository contains all the tasks completed during my internship at **HUNAR INTERN**. Each task demonstrates practical applications of **Python**, **Data Science**, **Machine Learning**, and **Deep Learning**, covering topics such as data cleaning, preprocessing, exploratory data analysis, regression, classification, and image classification.
+This repository contains all the **assignments and tasks** completed during my internship at **HUNAR INTERN**. The projects demonstrate practical applications of **Python**, **NumPy**, **SQL**, **Data Science**, **Machine Learning**, and **Deep Learning**, covering topics such as matrix operations, database management, data cleaning, regression, classification, and image classification.
 
-The repository is organized task-wise, making it easy to navigate through each internship assignment and its corresponding solution.
+The repository is organized into assignments and task-wise folders, making it easy to navigate through each submission.
 
 ---
 
@@ -14,6 +14,16 @@ The repository is organized task-wise, making it easy to navigate through each i
 Hunar-Intern
 │
 ├── README.md
+│
+├── Assignment-1
+│   ├── README.md
+│   ├── Assignment_1_Report.pdf
+│   ├── Task-1
+│   │   ├── README.md
+│   │   └── Task_1_NumPy_Diagonal_Sum.ipynb
+│   └── Task-2
+│       ├── README.md
+│       └── Task_2_SQL_Queries.sql
 │
 ├── Task-1-Data-Cleaning
 │   ├── README.md
@@ -40,10 +50,11 @@ Hunar-Intern
 
 ---
 
-## 🚀 Internship Tasks
+## 🚀 Assignments & Internship Tasks
 
-| Task | Project | Status |
+| Type | Project | Status |
 |------|---------|:------:|
+| Assignment 1 | NumPy & SQL Basics | ✅ Completed |
 | Task 1 | Data Cleaning | ✅ Completed |
 | Task 2 | House Price Prediction using Linear Regression | ✅ Completed |
 | Task 3 | Breast Cancer Detection using K-Nearest Neighbors (KNN) | ✅ Completed |
@@ -54,37 +65,37 @@ Hunar-Intern
 ## 🛠️ Technologies & Tools
 
 - Python
-- Pandas
 - NumPy
+- SQL
+- PostgreSQL
+- Pandas
 - Matplotlib
-- Seaborn
 - Scikit-learn
 - TensorFlow
 - Keras
 - Jupyter Notebook
 - Google Colab
+- pgAdmin 4
 - Git & GitHub
 
 ---
 
 ## 🎯 Skills Demonstrated
 
+- Python Programming
+- NumPy
+- SQL
+- PostgreSQL
+- Relational Database Design
 - Data Cleaning
 - Data Preprocessing
 - Missing Value Handling
-- Duplicate Removal
-- Feature Engineering
-- Feature Scaling
-- Data Transformation
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Machine Learning
-- Regression Analysis
 - Linear Regression
 - Classification
 - K-Nearest Neighbors (KNN)
-- Model Training
-- Model Evaluation
 - Deep Learning
 - Convolutional Neural Networks (CNN)
 - Computer Vision
@@ -94,12 +105,13 @@ Hunar-Intern
 
 ## 📈 Repository Progress
 
+- ✅ Assignment 1 – NumPy & SQL Basics
 - ✅ Task 1 – Data Cleaning
 - ✅ Task 2 – House Price Prediction using Linear Regression
 - ✅ Task 3 – Breast Cancer Detection using K-Nearest Neighbors (KNN)
 - ✅ Task 4 – Cat vs Dog Image Classification using CNN
 
-This repository will continue to be updated as more internship tasks are completed.
+This repository will continue to be updated as I complete more internship assignments and tasks.
 
 ---
 
@@ -121,4 +133,4 @@ https://www.linkedin.com/in/aditya-khanna2006
 
 ---
 
-⭐ Thank you for visiting this repository. Feedback and suggestions are always welcome!
+⭐ Thank you for visiting this repository. Feel free to explore my projects and assignments. Feedback and suggestions are always welcome!
