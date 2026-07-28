@@ -2,13 +2,13 @@
 
 Welcome to my **HUNAR INTERN Data Science Internship** repository.
 
-This repository contains all the **assignments and tasks** completed during my internship at **HUNAR INTERN**. The projects demonstrate practical applications of **Python**, **NumPy**, **SQL**, **Data Science**, **Machine Learning**, and **Deep Learning**, covering topics such as matrix operations, database management, data cleaning, regression, classification, and image classification.
+This repository showcases all the **assignments and internship tasks** completed during my **Data Science Internship at HUNAR INTERN**. Each project focuses on applying data science concepts to real-world problems using **Python**, **SQL**, **Pandas**, **NumPy**, **Machine Learning**, and **Deep Learning**.
 
-The repository is organized into assignments and task-wise folders, making it easy to navigate through each submission.
+The projects cover a wide range of topics, including **statistical analysis**, **data preprocessing**, **data visualization**, **database management**, **predictive modeling**, **classification**, and **computer vision**. The repository is organized into assignment-wise and task-wise folders for easy navigation.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 Hunar-Intern
@@ -24,6 +24,11 @@ Hunar-Intern
 │   └── Task-2
 │       ├── README.md
 │       └── Task_2_SQL_Queries.sql
+│
+├── Assignment-2
+│   ├── README.md
+│   ├── Assignment_2_Statistics.ipynb
+│   └── Assignment_2_Statistics.pdf
 │
 ├── Task-1-Data-Cleaning
 │   ├── README.md
@@ -50,11 +55,12 @@ Hunar-Intern
 
 ---
 
-## 🚀 Assignments & Internship Tasks
+# 🚀 Assignments & Internship Tasks
 
 | Type | Project | Status |
 |------|---------|:------:|
 | Assignment 1 | NumPy & SQL Basics | ✅ Completed |
+| Assignment 2 | Statistics – Mean Height Analysis | ✅ Completed |
 | Task 1 | Data Cleaning | ✅ Completed |
 | Task 2 | House Price Prediction using Linear Regression | ✅ Completed |
 | Task 3 | Breast Cancer Detection using K-Nearest Neighbors (KNN) | ✅ Completed |
@@ -62,28 +68,31 @@ Hunar-Intern
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 - Python
 - NumPy
-- SQL
-- PostgreSQL
 - Pandas
 - Matplotlib
+- SQL
+- PostgreSQL
 - Scikit-learn
 - TensorFlow
 - Keras
-- Jupyter Notebook
 - Google Colab
+- Jupyter Notebook
 - pgAdmin 4
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 🎯 Skills Demonstrated
+# 🎯 Skills Demonstrated
 
 - Python Programming
+- Statistical Analysis
 - NumPy
+- Pandas
 - SQL
 - PostgreSQL
 - Relational Database Design
@@ -103,19 +112,20 @@ Hunar-Intern
 
 ---
 
-## 📈 Repository Progress
+# 📈 Repository Progress
 
 - ✅ Assignment 1 – NumPy & SQL Basics
+- ✅ Assignment 2 – Statistics – Mean Height Analysis
 - ✅ Task 1 – Data Cleaning
 - ✅ Task 2 – House Price Prediction using Linear Regression
 - ✅ Task 3 – Breast Cancer Detection using K-Nearest Neighbors (KNN)
 - ✅ Task 4 – Cat vs Dog Image Classification using CNN
 
-This repository will continue to be updated as I complete more internship assignments and tasks.
+This repository will continue to be updated as I complete additional assignments and projects during my internship.
 
 ---
 
-## 🎓 Internship Information
+# 🎓 Internship Information
 
 **Organization:** HUNAR INTERN
 
@@ -123,14 +133,14 @@ This repository will continue to be updated as I complete more internship assign
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-**GitHub:**  
-https://github.com/aditya-khanna2006
+**GitHub**  
+🔗 https://github.com/aditya-khanna2006
 
-**LinkedIn:**  
-https://www.linkedin.com/in/aditya-khanna2006
+**LinkedIn**  
+🔗 https://www.linkedin.com/in/aditya-khanna2006
 
 ---
 
-⭐ Thank you for visiting this repository. Feel free to explore my projects and assignments. Feedback and suggestions are always welcome!
+⭐ Thank you for visiting this repository. Feel free to explore my internship assignments and projects. Your feedback and suggestions are always appreciated!
